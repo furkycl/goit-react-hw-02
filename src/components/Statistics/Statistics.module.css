@@ -1,0 +1,10 @@
+.statistics {
+  border: 2px solid #b9c4ca;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 20px;
+  background-color: #f4f4f4;
+  font-family: sans-serif;
+  text-align: left;
+  color: red;
+}
